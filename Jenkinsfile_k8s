@@ -1,1 +1,3 @@
+@Library('pipeline-library@pull/261/head') _
+
 parallelDockerUpdatecli([imageName: 'aws'])
